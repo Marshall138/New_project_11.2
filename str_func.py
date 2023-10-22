@@ -1,2 +1,2 @@
-def func_tutle(stroka='hello world'):
+def func_upper(stroka='hello world'):
     print(stroka.upper())
