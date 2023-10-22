@@ -1,3 +1,3 @@
 def func_upper(stroka='hello world'):
-    """Выводит первые заглавные буквы"""
+    """Выводит все заглавные буквы"""
     print(stroka.upper())
